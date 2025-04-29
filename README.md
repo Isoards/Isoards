@@ -1,9 +1,10 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isoards&show_icons=true&theme=radical)
+## 📈 Algorithm Tier (Baekjoon Online Judge)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wdyoung11)](https://solved.ac/wdyoung11)
 
 ---
 
-## 🛠️ 주요 활동
+## 주요 활동
 
 - **반사경 가공용 로봇 제어 기술 개발**  
   - 소속: 홍익대학교 세종캠퍼스 유동영 교수님 연구실  
@@ -15,27 +16,3 @@
   - 일시: 2024.09.13
 
 ---
-
-## 📈 Algorithm Tier (Baekjoon Online Judge)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wdyoung11)](https://solved.ac/wdyoung11)
-
----
-
-
-
-
-<!--
-**Isoards/Isoards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
