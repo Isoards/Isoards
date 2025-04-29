@@ -18,7 +18,7 @@
 
 ## 📈 Algorithm Tier (Baekjoon Online Judge)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=YOUR_BAEKJOON_ID)](https://solved.ac/wdyoung11)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wdyoung11)](https://solved.ac/wdyoung11)
 
 ---
 
